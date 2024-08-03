@@ -32,6 +32,7 @@ The internship report, titled "Real-Time Twitter Analysis Using Power BI Dashboa
 ## Embedded Website
 
 The embedded website hosts the Power BI dashboard and provides access to the report and other resources. It is designed to be user-friendly and accessible to the public.
+**Visit the website [here](https://real-time-twitter-analysis.vercel.app/)**.
 
 ## Installation and Usage
 
