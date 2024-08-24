@@ -21,6 +21,8 @@ The Power BI dashboard visualizes Twitter engagement data, including:
 - **Dual-Axis Chart**: Illustrates media views and engagements over time.
 - **Pie Chart**: Represents the distribution of different click types.
 
+**Visit the power BI Dashboard in pdf format [here](https://acrobat.adobe.com/id/urn:aaid:sc:ap:3a5f2f4e-d9ef-4076-bf9f-3da7cb81fcfa)**.
+
 The dashboard provides interactive features, such as filters and drill-downs, to facilitate data exploration.
 
 ## Internship Report
